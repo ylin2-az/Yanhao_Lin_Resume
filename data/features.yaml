@@ -1,0 +1,84 @@
+about:
+  name: Yanhao Lin
+  tagline: Information Security Analyst
+  phone: "216-332-9912"
+  email: ylin2@arizona.edu
+  links:
+    - title: /in/mertbakir
+      url: https://tr.linkedin.com/in/mertbakir
+      icon: fab fa-linkedin
+    - title: mertbakir
+      url: https://gitlab.com/mertbakir/
+      icon: fab fa-gitlab
+    - title: mertbakir
+      url: https://github.com/mertbakir
+      icon: fab fa-github
+  details: |
+    I’m an Information Security Analyst at the Federal Reserve Bank of Cleveland with hands-on experience in risk assessments, access management, and IT operations improvement. My focus is on strengthening organizational security posture while ensuring system availability and a seamless user experience.
+
+    My background includes vendor risk assessments, phishing analysis, security awareness training, and policy improvement. I’ve consistently delivered results such as reducing incident tickets, streamlining security processes, and enhancing overall system resilience.
+
+skills:
+  - groupName: Security Operations
+    list:
+      - Email Analysis - Data Loss Prevention - Penetration Test
+      - Insider Monitoring - Threat Analysis - Incident Response
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Security Policies
+      - NIST Framework - Information Compliance
+
+interests:
+  - Penetration Testing
+  - AI Applications
+  - Security Operations
+  - Security Monitoring Systems
+
+languages:
+  - name: Turkish
+    level: Native
+
+  - name: English
+    level: Professional
+    certificates:
+      - "YDS: 86.25 - 2018"
+      - "TOEFL: 109 - 2021"
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "CompTIA Certification"
+    subtitle: CompTIA Security+ Certification
+    date: "2021"
+
+  - title: "CompTIA Certification"
+    subtitle: CompTIA Cybersecurity Analyst +
+    date: "2023"
+  # link: https://xkcd.com/605/ # This link will be on title level.
+
+  - title: "ISC2 Certification"
+    subtitle: ISC2 Certified in Governance, Risk, and Compliance
+    date: "2023"
+
+  - title: "SAN Certification"
+    subtitle: Certified Incident Handler
+    date: "2025"
+ 
+

@@ -1,0 +1,54 @@
+- company: Federal Reserve Bank of Cleveland
+  roles:
+    - role: Information Security Analyst
+      details: |
+        •	Perform software request reviews and risk assessment reviews based on industry standards. 
+
+        •	Perform access management and access reviews by using Bank’s internal access management solutions
+
+        •	Monitor services daily to ensure system availability and report incidents to management.
+
+        •	Improve the user or customer experience by streamlining IT operation, including creating and updating Standard Operating Procedures (SOP), updating records management files, and optimizing IS toolsets.
+
+      date: 05.2022 -  Present
+
+- company: United States Army Reserves
+  page: 1
+  roles: 
+    - role: Information Technology Specialist
+      tools: 
+      details: |
+        •	Army Mission Monitoring System project leader, responsible for maintaining uninterrupted radio communication services, internet service, and personnel management.
+
+        •	Squad leader, responsible for providing information to initiate tasks and perform task report reviews.
+
+        •	Build a secure network in a field environment from a cold site using a Satellite.
+
+        •	Manage network environments to ensure QoS by maintaining the functionality of Cisco Routers and Switches.
+
+        •	Diagnose outage utilizing information technology skills to determine the point of failure in hardware devices, software applications, and related systems.
+
+      date: 07.2016 - 07.2024
+    
+    - role: 
+      tools:
+      date:
+      details: |
+       
+- company: Fortune Brand Global Plubmbing Group/Moen
+  page: 2
+  roles:
+    - role: Information Security Intern
+      tools: 
+      details: |
+        •	Engage with vendor/supplier vulnerability assessments for a broad perspective of business partnership and information security. 
+
+        •	Analyze phishing emails using Proofpoint Mail Security Gateway, URL scanner, MX Toolbox, Splunk, and other security tools to produce a more secure and productive online environment.
+
+        •	Assist with Security Awareness Training using Excel, Windows PowerShell, and Talent Management Course deployment tools and monitor phishing campaign data.
+
+        •	Analyze and identify IT security policy inconsistency and provide feedback to update the IT policies.
+
+        •	Decrease the overall number of tickets by 20 each week and improve company security status by monitoring and resolving Deep Watch tickets, Integrated Support Database (ISD) tickets, and Crowdstrike incidents.
+ 
+      date: 05.2021 - 12.2021
